@@ -1,0 +1,33 @@
+body {background-color:#070F2B;}
+    p {
+    font-size:16 ;
+    font-family:Verdana;
+    color: #b6b5d8;
+    }
+    img {
+    border: 1px solid #000000;
+    }
+    header {
+        font-weight: bold;
+        color: #535C91;
+        font-size: 36px;
+    }
+
+    h2 {
+        font-weight: bold;
+        color: #a0afff;
+        font-size: 30px;
+    }
+    iframe {
+        width: 50%;
+        height: 60%; 
+        border: 2px solid #000000;
+        border-radius: 25px; 
+        box-shadow: 0 0 40px rgba(0, 0, 0, 1);
+    }
+    .first-paragraph {
+        font-size:16 ;
+        font-family:Verdana;
+        color: #b6b5d8;
+        padding-left: 25%;
+    }
